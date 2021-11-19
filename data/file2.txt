@@ -1,0 +1,8 @@
+The first line is common to all files.
+This second line is unique to file #2.
+This third line is present in files #1 & #2.
+File #2 has two columns of csv data.
+118,14
+240,24
+300,17
+256,20

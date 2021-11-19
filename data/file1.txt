@@ -1,0 +1,8 @@
+The first line is common to all files.
+This second line is unique to file #1.
+This third line is present in files #1 & #2.
+File #1 has one column of data.
+100
+252
+120
+154
